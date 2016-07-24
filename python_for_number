@@ -1,9 +1,5 @@
 #!//usr/bin/python
-<<<<<<< HEAD
-import 
-=======
 import re ro rc
->>>>>>> 662296b46bcdbbfbfeb27074242d4d5ac599ebac
 for it in item
 do
 done
